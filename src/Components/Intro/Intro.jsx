@@ -23,7 +23,7 @@ const Intro = () => {
     <div className="i-left">
         <div className="i-name">
             <span style={{color: darkMode? 'white' : ''}}>Hy! I Am </span>
-            <span>Hassan Khan</span>
+            <span>Hamid Ullah</span>
             <span>Forntend Developer With High Level Of Experience In Web Designing And Development, Producting The Quality Work.</span>
         </div>
 
